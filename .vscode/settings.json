@@ -25,6 +25,7 @@
   },
   "peacock.color": "#045f7c",
   "cSpell.enableFiletypes": [
+    "!typescript",
     "!typescriptreact"
   ]
 }
