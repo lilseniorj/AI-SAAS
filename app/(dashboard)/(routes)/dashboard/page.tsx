@@ -43,7 +43,7 @@ const tools = [
     href: "/video"
   },
   {
-    label: "Imgae Generation",
+    label: "Code Generation",
     icon: Code,
     color: "text-grenn-700",
     bgColor: "bg-green-700/10",
